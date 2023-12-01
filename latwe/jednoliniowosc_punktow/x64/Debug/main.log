@@ -1,0 +1,11 @@
+﻿  functions.cpp
+  main.cpp
+C:\Users\kryst\OneDrive\Pulpit\GitHub\MySpoj\latwe\jednoliniowosc_punktow\main.cpp(17,14): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\kryst\OneDrive\Pulpit\GitHub\MySpoj\latwe\jednoliniowosc_punktow\main.cpp(17,11): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\kryst\OneDrive\Pulpit\GitHub\MySpoj\latwe\jednoliniowosc_punktow\main.cpp(18,14): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\kryst\OneDrive\Pulpit\GitHub\MySpoj\latwe\jednoliniowosc_punktow\main.cpp(18,11): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\kryst\OneDrive\Pulpit\GitHub\MySpoj\latwe\jednoliniowosc_punktow\main.cpp(19,14): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\kryst\OneDrive\Pulpit\GitHub\MySpoj\latwe\jednoliniowosc_punktow\main.cpp(19,11): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Point.cpp
+  Generowanie kodu...
+  main.vcxproj -> C:\Users\kryst\OneDrive\Pulpit\GitHub\MySpoj\latwe\jednoliniowosc_punktow\x64\Debug\main.exe
